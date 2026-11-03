@@ -35,7 +35,7 @@ The Open University of Sri Lanka
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Mumshadh/Mumshadh/main/metrics.svg" alt="GitHub Metrics" width="100%" />
+<img src="https://raw.githubusercontent.com/Mumshadh/Mumshadh/main/metrics.svg" alt="GitHub Metrics" width="75%" />
 
 </div>
 ---
