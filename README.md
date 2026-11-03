@@ -1,4 +1,10 @@
+<div align="center">
+
 # Hi, I'm Mumshadh Deenoori 👋
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A78BFA&width=600&lines=Software+Engineering+Undergraduate;Aspiring+Software+Engineer;Interested+in+Application+Development;Always+Learning+and+Building" alt="Typing SVG" />
+
+</div>
 
 ### Software Engineering Undergraduate | Aspiring Software Engineer
 
