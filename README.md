@@ -2,7 +2,7 @@
 
 # Hi, I'm Mumshadh Deenoori 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=720&lines=Software+Engineering+Undergraduate;Aspiring+Software+Engineer;Interested+in+Application+Development;Always+Learning+and+Building" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=680&lines=Software+Engineering+Undergraduate;Aspiring+Software+Engineer;Interested+in+Application+Development;Always+Learning+and+Building" alt="Typing SVG" />
 
 </div>
 
