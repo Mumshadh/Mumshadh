@@ -33,15 +33,28 @@
   <em>November 2023 – Present</em>
 </p>
 
-<h2 align="center">🛠️ Technical Skills</h2>
+<h2 align="center">TECHNICAL SKILLS</h2>
 
-<div align="center">
+<h3 align="center">Programming Languages</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,python&theme=dark" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=java,js,python,react,androidstudio,mysql,sqlite,git,github,figma&theme=dark" />
+<h3 align="center">Development</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,androidstudio&theme=dark" />
+</p>
 
-</div>
+<h3 align="center">Database & Tools</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,git,github,figma&theme=dark" />
+</p>
 
----
+<h3 align="center">Networking</h3>
+<p align="center">
+  <strong>Cisco Packet Tracer</strong> &nbsp; • &nbsp; <strong>MQTT</strong>
+</p>
+
 <h2 align="center">📊 GitHub Statistics</h2>
 
 <div align="center">
