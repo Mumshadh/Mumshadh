@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="github-banner.png" alt="Mumshadh Deenoori - Software Engineering Student" width="100%" />
+  <img src="github-banner.png" alt="Mumshadh Deenoori - Software Engineering Student" width="110%" />
 </div>
 
 <div align="center">
