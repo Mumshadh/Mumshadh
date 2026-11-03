@@ -107,12 +107,32 @@ My personal portfolio website, showcasing my background, technical skills, and s
 
 </div>
 
-### 🤝 Connect With Me
+<h2 align="center">LET'S CONNECT</h2>
 
-- **LinkedIn:** [Mumshadh Deenoori](https://www.linkedin.com/in/mumshadh-deenoori-a26651315/)
-- **GitHub:** [@Mumshadh](https://github.com/Mumshadh)
-- **Portfolio:** [Visit My Website](https://mumshadh.github.io/mumshadh-portfolio/)
+<p align="center">
+  I'm always interested in connecting with developers,
+  learning from others, and exploring new opportunities.
+</p>
 
----
+<p align="center">
+  <a href="https://www.linkedin.com/in/mumshadh-deenoori-a26651315/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-A78BFA?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Mumshadh">
+    <img src="https://img.shields.io/badge/GitHub-Follow-A78BFA?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://mumshadh.github.io/mumshadh-portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-A78BFA?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+</p>
 
-*Always learning, building, and improving.*
+<br>
+
+<p align="center">
+  <em>Dream Big · Code Better · Keep Creating.</em>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mumshadh&label=PROFILE%20VIEWS&color=A78BFA&style=flat" alt="Profile views" />
+</p>
+
