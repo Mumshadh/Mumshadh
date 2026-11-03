@@ -1,16 +1,62 @@
-## Hi there 👋
+# Hi, I'm Mumshadh Deenoori 👋
 
-<!--
-**Mumshadh/Mumshadh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Engineering Undergraduate | Aspiring Software Engineer
 
-Here are some ideas to get you started:
+I'm a third-year **Bachelor of Software Engineering (Hons.)** undergraduate at the **Open University of Sri Lanka**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm interested in application development, database management, and computer networking. I enjoy building practical applications, exploring new technologies, and continuously improving my technical skills through hands-on projects.
+
+---
+
+### 🎓 Education
+
+**Bachelor of Software Engineering (Hons.)**  
+The Open University of Sri Lanka  
+2023 – Present
+
+---
+
+### 🛠️ Technical Skills
+
+- **Programming:** Java, JavaScript, Python
+- **Web Development:** React
+- **Mobile Development:** Android Development (Java)
+- **Databases:** MySQL, SQLite, SQL
+- **Networking:** Computer Networking, Cisco Packet Tracer, MQTT
+- **Design & Tools:** Figma, Git, GitHub, Android Studio
+
+---
+
+### 🚀 Projects
+
+**CrewConnect** — In Development  
+An Android application designed to connect aspiring filmmakers and creative professionals, helping them collaborate, create projects, and discover creative resources.
+
+**MiniMates** — Completed  
+Academic Group Project- A preschool management web application developed as part of the Software Design in Group subject. The system was designed for Sussex College, Anuradhapura, to support preschool management activities.
+
+**Developer Portfolio**  
+My personal portfolio website, built using React and JavaScript.
+
+🔗 [View Portfolio](https://mumshadh.github.io/mumshadh-portfolio/)
+
+---
+
+### 🌱 Currently Working On
+
+- Improving my React and JavaScript skills.
+- Developing practical software engineering projects.
+- Strengthening my database and networking knowledge.
+- Preparing for a Software Engineering internship.
+
+---
+
+### 🤝 Connect With Me
+
+- **LinkedIn:** [Mumshadh Deenoori](https://www.linkedin.com/in/mumshadh-deenoori-a26651315/)
+- **GitHub:** [@Mumshadh](https://github.com/Mumshadh)
+- **Portfolio:** [Visit My Website](https://mumshadh.github.io/mumshadh-portfolio/)
+
+---
+
+*Always learning, building, and improving.*
