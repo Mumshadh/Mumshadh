@@ -22,6 +22,8 @@ The Open University of Sri Lanka
 
 ---
 
+<h2 align="center">🛠️ Technical Skills</h2>
+
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=java,js,python,react,androidstudio,mysql,sqlite,git,github,figma&theme=dark" />
