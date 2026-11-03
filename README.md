@@ -35,12 +35,10 @@ The Open University of Sri Lanka
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Mumshadh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mumshadh&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://raw.githubusercontent.com/Mumshadh/Mumshadh/main/metrics.svg" alt="GitHub Metrics" width="100%" />
 
 </div>
-
+---
 ### 🚀 Projects
 
 **CrewConnect** — In Development  
