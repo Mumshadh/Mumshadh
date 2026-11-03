@@ -90,14 +90,22 @@ My personal portfolio website, showcasing my background, technical skills, and s
 
 </div>
 
-### 🌱 Currently Working On
+<h2 align="center">CURRENTLY EXPLORING</h2>
 
-- Improving my React and JavaScript skills.
-- Developing practical software engineering projects.
-- Strengthening my database and networking knowledge.
-- Preparing for a Software Engineering internship.
+<p align="center">
+  Building practical software projects and strengthening my development skills.
+</p>
 
----
+<div align="center">
+
+| Focus Area | Current Direction |
+|:---|:---|
+| Application Development | Improving React and JavaScript |
+| Android Development | Developing CrewConnect |
+| Database Management | Strengthening SQL and database skills |
+| Professional Growth | Preparing for a Software Engineering Internship |
+
+</div>
 
 ### 🤝 Connect With Me
 
