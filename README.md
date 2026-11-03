@@ -22,14 +22,11 @@ The Open University of Sri Lanka
 
 ---
 
-### 🛠️ Technical Skills
+<div align="center">
 
-- **Programming:** Java, JavaScript, Python
-- **Web Development:** React
-- **Mobile Development:** Android Development (Java)
-- **Databases:** MySQL, SQLite, SQL
-- **Networking:** Computer Networking, Cisco Packet Tracer, MQTT
-- **Design & Tools:** Figma, Git, GitHub, Android Studio
+<img src="https://skillicons.dev/icons?i=java,js,python,react,androidstudio,mysql,sqlite,git,github,figma&theme=dark" />
+
+</div>
 
 ---
 
