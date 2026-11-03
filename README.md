@@ -63,22 +63,32 @@
 
 </div>
 
+<h2 align="center">FEATURED PROJECTS</h2>
 
+<div align="center">
 
-### 🚀 Projects
+### 01 — CrewConnect
+**Android Application · In Development**
 
-**CrewConnect** — In Development  
-An Android application designed to connect aspiring filmmakers and creative professionals, helping them collaborate, create projects, and discover creative resources.
+An Android application designed to help aspiring filmmakers and creative professionals connect, collaborate, showcase their work, and discover creative opportunities.
 
-**MiniMates** — Completed  
-Academic Group Project- A preschool management web application developed as part of the Software Design in Group subject. The system was designed for Sussex College, Anuradhapura, to support preschool management activities.
+<br>
 
-**Developer Portfolio**  
-My personal portfolio website, built using React and JavaScript.
+### 02 — MiniMates
+**Web Application · Academic Group Project**
 
-🔗 [View Portfolio](https://mumshadh.github.io/mumshadh-portfolio/)
+A preschool management web application developed for Sussex College, Anuradhapura, as part of the Software Design in Group subject.
 
----
+<br>
+
+### 03 — Developer Portfolio
+**React · JavaScript · Responsive Design**
+
+My personal portfolio website, showcasing my background, technical skills, and software development projects.
+
+<br>
+
+</div>
 
 ### 🌱 Currently Working On
 
