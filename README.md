@@ -10,21 +10,28 @@
 
 </div>
 
-### Software Engineering Undergraduate | Aspiring Software Engineer
+<h2 align="center">ABOUT ME</h2>
 
-I'm a third-year **Bachelor of Software Engineering (Hons.)** undergraduate at the **Open University of Sri Lanka**.
+<p align="center">
+  I'm a third-year <strong>Software Engineering undergraduate</strong>
+  at the Open University of Sri Lanka.
+  <br><br>
+  I'm interested in application development, database management,
+  and networking. I enjoy building practical projects, exploring
+  new technologies, and continuously improving my technical skills.
+</p>
 
-I'm interested in application development, database management, and computer networking. I enjoy building practical applications, exploring new technologies, and continuously improving my technical skills through hands-on projects.
+<br>
 
----
+<h2 align="center">EDUCATION</h2>
 
-### 🎓 Education
-
-**Bachelor of Software Engineering (Hons.)**  
-The Open University of Sri Lanka  
-2023 – Present
-
----
+<p align="center">
+  <strong>Bachelor of Software Engineering (Honours)</strong>
+  <br>
+  The Open University of Sri Lanka
+  <br>
+  <em>November 2023 – Present</em>
+</p>
 
 <h2 align="center">🛠️ Technical Skills</h2>
 
