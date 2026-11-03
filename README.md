@@ -31,6 +31,15 @@ The Open University of Sri Lanka
 </div>
 
 ---
+<h2 align="center">📊 GitHub Statistics</h2>
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Mumshadh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mumshadh&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ### 🚀 Projects
 
